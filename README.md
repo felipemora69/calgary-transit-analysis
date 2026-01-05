@@ -63,6 +63,8 @@ Key charts included:
 
 **Results & Business Impact**
 
-
-
-If you want, I can also help you write the short project card description, create badges, or design a visual header for your README to make it stand out.
+- Ridership rose pre‑2020, collapsed during COVID, recovered in 2022–23, then dipped in 2024 due to reduced immigration.
+- CTrain rebounded faster downtown, while Bus ridership recovered more slowly in several neighborhoods.
+- Seasonal peaks (summer, back‑to‑school) consistently drive higher ridership.
+- LRT access is uneven: downtown is well‑served, while many outer neighborhoods rely almost entirely on buses.
+- Recommendations: boost downtown commuting, expand service in underserved areas, align planning with population growth, prepare for future shocks, and continue LRT/BRT expansion.
